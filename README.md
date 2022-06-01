@@ -1,11 +1,12 @@
-# Contador de Visualização simples
-# Contador de visualização simples para sites e README do Github.
+<h1 align="center"> 
+  Contador de visualização simples para sites e README do Github.
+</h1>
 
 ## Demonstração
 
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
-## Veja-me fazer isso
+## Credito de quem criou
 
 https://youtu.be/oDQCyQahn68
 

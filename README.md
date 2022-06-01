@@ -25,9 +25,12 @@ $ git clone https://github.com/SilvaneiMartins/Simple-View-Counter
 
 ## Seja um patrocinador
 
-<p align="left">
- <a href="https://www.patreon.com/silvaneimartins">☕ Patreon</a>
-</p>
+<h4 align="left">
+ <a href="https://www.patreon.com/silvaneimartins">☕ Patreon Silvanei Martins</a>
+  <p >
+    Você vai encontrar codigo de variáveis linguagem como swiftUi, React Nati, Typescript, React Js, Javascript
+  </p>
+</h4>
 
 
 ## Credito de quem criou

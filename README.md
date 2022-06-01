@@ -5,9 +5,6 @@
 ## Demonstração
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
-<a href="https://youtu.be/oDQCyQahn68">
- <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
 ## Clonar projeto
 Quer isso para o seu repositório? Basta fazer o uploade para qualquer repositório, basta clonar.
 
@@ -34,4 +31,5 @@ $ git clone https://github.com/SilvaneiMartins/Simple-View-Counter
 
 
 ## Credito de quem criou
-https://youtu.be/oDQCyQahn68
+<a href="https://youtu.be/oDQCyQahn68">
+ <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Watch-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>

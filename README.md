@@ -1,17 +1,11 @@
-# Simple View Counter
+# Contador de Visualização simples
+# Contador de visualização simples para sites e README do Github.
 
-<p>
- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-
-Simple view counter for websites and Github READMEs.
-
-## Demo
+## Demonstração
 
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
-## Watch me make this
+## Veja-me fazer isso
 
 https://youtu.be/oDQCyQahn68
 
@@ -27,8 +21,10 @@ Want this for your repository? Simply upload the [`index.php`](/src/index.php) t
 💖 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/SilvaneiMartins"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<a href="https://ko-fi.com/jlawrence">☕ Buy me a coffee</a>
+<p align="left">
+ <a href="https://www.patreon.com/silvaneimartins">☕ Patreon</a>
+</p>

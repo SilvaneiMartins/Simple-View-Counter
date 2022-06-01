@@ -4,6 +4,7 @@
 
 ## Demonstração
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
+ </br>
 
 ## Clonar projeto
 Quer isso para o seu repositório? Basta fazer o uploade para qualquer repositório, basta clonar.
@@ -12,26 +13,25 @@ Quer isso para o seu repositório? Basta fazer o uploade para qualquer repositó
 # Clone this repository
 $ git clone https://github.com/SilvaneiMartins/Simple-View-Counter
 ```
+ </br>
 
 ## Suporte
-
 💖 Se você gosta deste projeto, dê-o a ⭐ e compartilhe com os amigos!
-
 <p align="left">
   <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://github.com/SilvaneiMartins"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+ </br>
 
 
 ## Seja um patrocinador
-
 <h4 align="left">
   <p >
     Você vai encontrar codigo de variáveis linguagem como swiftUi, React Nati, Typescript, React Js, Javascript
   </p>
-  </br>
  <a href="https://www.patreon.com/silvaneimartins">☕ Patreon Silvanei Martins</a>
 </h4>
+ </br>
 
 
 ## Credito de quem criou

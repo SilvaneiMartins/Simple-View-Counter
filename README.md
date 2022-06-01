@@ -15,11 +15,16 @@ https://youtu.be/oDQCyQahn68
 
 ## Deploy
 
-Want this for your repository? Simply upload the [`index.php`](/src/index.php) to any web server with PHP installed.
+Quer isso para o seu repositório? Basta fazer o uploade para qualquer respositorio basta clonar.
 
-## Support
+```bash
+# Clone this repository
+$ git clone https://github.com/SilvaneiMartins/Simple-View-Counter
+```
 
-💖 If you like this project, give it a ⭐ and share it with friends!
+## Suporte
+
+💖 Se você gosta deste projeto, dê-o a ⭐ e compartilhe com os amigos!
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
